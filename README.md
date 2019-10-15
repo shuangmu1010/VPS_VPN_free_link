@@ -1,0 +1,2 @@
+# VPS_VPN_free_link
+DigitalOcean 的vps邀请码，用此注册可以获得50美元的优惠权限
